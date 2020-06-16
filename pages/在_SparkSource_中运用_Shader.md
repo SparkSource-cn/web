@@ -1,0 +1,41 @@
+# -*- mode:org; coding: utf-8 -*-
+
+#+TITLE:     在 SparkSource 中运用 Shader
+#+AUTHOR:    Wensheng Xie
+#+EMAIL:     wxie@member.fsf.org
+#+LANGUAGE:  zh
+#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
+#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
+#+LATEX_CLASS: myclass
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
+#+ATTR_LATEX: :float multicolumn
+#+REVEAL_TRANS: None
+#+REVEAL_THEME: Black
+#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
+#+ATTR_ORG: :width 30
+#+ATTR_HTML: width="100px"
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+STARTUP: fold
+
+春寒料峭，乍暖还寒。魔都的气温在一阵春雷之后骤然降至疫情爆发的二月之初。忘穿
+秋裤的伙伴可以再把秋裤穿起来，而羽绒服已送干洗的朋友只好美丽冻人了。
+
+倒春寒是惊喜，但不是意外。同样，SparkSource 对 Shader 的支持也不是意外。甚
+至可以说 SparkSource 让 Shader 开发如虎添翼，因为 SparkSource 的设计已经
+自然深度适配 Shader 的各种着色、变形、光影、运动等渲染技术。让设计师头脑中
+的理念准确地展现在屏幕上只能是惊喜，不能是意外！
+
+Shader 虽好，性能也很重要。优质的画面加上丝般顺滑的切换正是 SparkSource
+团队针对 Shader 之特点呕心打造。我们的许多技巧不说不知道，一说出来真是简单
+到让人恍然大悟。
+
+这里举个例子。有些时候客户需要全屏的动效——只能用 Shader 来实现，但是系统
+同时还有很多图形图像叠加上来，负载很高——动效很卡！SparkSource 的处理很
+简单：系统处理图像缩放的效率很高，那么就先在后台小尺寸的动效做好——这个对
+系统资源的消耗就可以控制到合理的范围了——然后放大到全屏。这样的结果就是客
+户想要的动效。
+
+惊喜小技巧还有不少。请大家多穿衣服，搬好小板凳，看下简单的 Shader 效果。
+闪电来袭！
