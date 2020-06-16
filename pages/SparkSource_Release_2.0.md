@@ -1,23 +1,8 @@
-# -*- mode:org; coding: utf-8 -*-
-
-#+TITLE:     SparkSource Release 2.0
-#+AUTHOR:    Wensheng Xie
-#+EMAIL:     wxie@member.fsf.org
-#+LANGUAGE:  zh
-#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
-#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+LATEX_CLASS: myclass
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
-#+ATTR_LATEX: :float multicolumn
-#+REVEAL_TRANS: None
-#+REVEAL_THEME: Black
-#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
-#+ATTR_ORG: :width 30
-#+ATTR_HTML: width="100px"
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+STARTUP: fold
+---
+layout: page
+title: SparkSource Release 2.0
+description: official SparkSource release 2.0
+---
 
 纵然窗外阳光灿烂、春意盎然，我们也还是在草木皆兵的疫情之下防护未敢稍有怠慢。无法
 出差，客户不能登门拜访。会议取消，市场宣传也只有上线。

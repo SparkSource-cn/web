@@ -1,23 +1,8 @@
-# -*- mode:org; coding: utf-8 -*-
-
-#+TITLE:     SparkSource 软件质量经受考验
-#+AUTHOR:    Wensheng Xie
-#+EMAIL:     wxie@member.fsf.org
-#+LANGUAGE:  zh
-#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
-#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+LATEX_CLASS: myclass
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
-#+ATTR_LATEX: :float multicolumn
-#+REVEAL_TRANS: None
-#+REVEAL_THEME: Black
-#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
-#+ATTR_ORG: :width 30
-#+ATTR_HTML: width="100px"
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+STARTUP: fold
+---
+layout: page
+title: SparkSource Quality
+description: SparkSource software quality follows high standards.
+---
 
 软件的质量常常决定着产品的命运。质量差劲的软件纵然有着华丽的功能也无法让客户和
 用户满意，而且后期修复缺陷的投入往往是前期完善设计的数十倍，甚至最终导致灾难性的后

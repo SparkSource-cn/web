@@ -1,23 +1,8 @@
-# -*- mode:org; coding: utf-8 -*-
-
-#+TITLE:     使用 SparkStuido 开发应用组件市场
-#+AUTHOR:    Wensheng Xie
-#+EMAIL:     wxie@member.fsf.org
-#+LANGUAGE:  zh
-#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
-#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+LATEX_CLASS: myclass
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
-#+ATTR_LATEX: :float multicolumn
-#+REVEAL_TRANS: None
-#+REVEAL_THEME: Black
-#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
-#+ATTR_ORG: :width 30
-#+ATTR_HTML: width="100px"
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+STARTUP: fold
+---
+layout: page
+title: SparkSource development community
+description: SparkSource supports community development.
+---
 
 无论你是开发桌面应用软件，还是开发手机应用软件，抑或是开发其他嵌入式设备的应用软
 件，界面的新颖程度、可辨识程度、演进变化的速度一般来说都是你获得更多用户认可的重

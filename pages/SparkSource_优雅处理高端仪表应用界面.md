@@ -1,23 +1,8 @@
-# -*- mode:org; coding: utf-8 -*-
-
-#+TITLE:     SparkSource 优雅处理高端仪表应用界面
-#+AUTHOR:    Wensheng Xie
-#+EMAIL:     wxie@member.fsf.org
-#+LANGUAGE:  zh
-#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
-#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+LATEX_CLASS: myclass
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
-#+ATTR_LATEX: :float multicolumn
-#+REVEAL_TRANS: None
-#+REVEAL_THEME: Black
-#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
-#+ATTR_ORG: :width 30 
-#+ATTR_HTML: width="100px"
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+STARTUP: fold
+---
+layout: page
+title: SparkSource handles Instrument Cluster
+description: SparkSource Project: Instrument Cluster
+---
 
 随着汽车电子的不断发展和人们需求的日益增多，车内仪表的功能也越来越复杂，其应用界面也越来越亮
 丽多变。高端仪表应用不仅提供传统仪表带有的转速和车速信息，也为驾驶者展示更为丰富的车内、车外

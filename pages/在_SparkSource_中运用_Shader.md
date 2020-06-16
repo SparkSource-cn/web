@@ -1,23 +1,8 @@
-# -*- mode:org; coding: utf-8 -*-
-
-#+TITLE:     在 SparkSource 中运用 Shader
-#+AUTHOR:    Wensheng Xie
-#+EMAIL:     wxie@member.fsf.org
-#+LANGUAGE:  zh
-#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
-#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+LATEX_CLASS: myclass
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
-#+ATTR_LATEX: :float multicolumn
-#+REVEAL_TRANS: None
-#+REVEAL_THEME: Black
-#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
-#+ATTR_ORG: :width 30
-#+ATTR_HTML: width="100px"
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+STARTUP: fold
+---
+layout: page
+title: SparkSource and Shader
+description: examples of using Shader in SparkSource
+---
 
 春寒料峭，乍暖还寒。魔都的气温在一阵春雷之后骤然降至疫情爆发的二月之初。忘穿
 秋裤的伙伴可以再把秋裤穿起来，而羽绒服已送干洗的朋友只好美丽冻人了。

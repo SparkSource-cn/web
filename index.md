@@ -29,12 +29,10 @@ of a GitHub repository.
 The following content is for SparkSource (in Chinese):
 
 - [SparkSource Introduction](pages/SparkSource_Introduction.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
+- [SparkSource Release](pages/快讯-SparkStudio_试用版自由下载.html)
+- [SparkSource Project](pages/SparkSource使用Redmine进行项目管理.html)
+- [SparkSource Tutorial](pages/用_SparkStudio_创建_Hello_World_程序.html)
+- [SparkSource Value](pages/SparkSource_价值何在.html)
 
 If anything here is confusing (or _wrong_!), or if I've missed
 important details, please

@@ -1,23 +1,8 @@
-# -*- mode:org; coding: utf-8 -*-
-
-#+TITLE:     用 Spark Studio 创建 Hello World 程序
-#+AUTHOR:    Wensheng Xie
-#+EMAIL:     wxie@member.fsf.org
-#+LANGUAGE:  zh
-#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
-#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+LATEX_CLASS: myclass
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+ATTR_LATEX: width=0.38\textwidth wrap placement={r}{0.4\textwidth}
-#+ATTR_LATEX: :float multicolumn
-#+REVEAL_TRANS: None
-#+REVEAL_THEME: Black
-#+TAGS: @work(w) @home(h) @road(r) laptop(l) pc(p) { @read : @read_book @read_ebook }
-#+ATTR_ORG: :width 30
-#+ATTR_HTML: width="100px"
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+STARTUP: fold
+---
+layout: page
+title: SparkSource Tutorial
+description: examples that teaches how to use SparkSource
+---
 
 想必大家都已经从
 http://www.sparksource.cn/html_ch/trial_download.html
@@ -64,3 +49,7 @@ SparkStudio
 
 更多内容，请点击 Spark Studio 的 Help -> Beginner，这里有 Hello World 的详细步骤。
 祝你的世界更美好！
+
+请同时参看：
+ - [在 SparkSource 中运用 Shader](在_SparkSource_中运用_Shader.html)
+ - [SparkSource 图形引擎示例](SparkSource_图形引擎示例.html)
