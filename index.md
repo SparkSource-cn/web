@@ -28,7 +28,7 @@ of a GitHub repository.
 
 The following content is for SparkSource (in Chinese):
 
-- [SparkSource Introduction](pages/SparkSource_简介.html)
+- [SparkSource Introduction](pages/SparkSource_Introduction.html)
 - [Making an independent website](pages/independent_site.html)
 - [Making a personal site](pages/user_site.html)
 - [Making a site for a project](pages/project_site.html)
