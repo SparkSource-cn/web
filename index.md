@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SparkSource Site
+title: SparkSource Home
 tagline: Easy websites with GitHub Pages
 description: SparkSource, a leading HMI development system
 ---
