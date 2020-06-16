@@ -77,4 +77,4 @@ SparkSource 总结了这些痛点、分析了症结所在，有针对性地解�
 
 请同时参看：
  - [SparkSource 软件质量经受考验](SparkSource_软件质量经受考验.html)
- - [使用 SparkSource 开发应用组件市场](使用_SparkSource_开发应用组件市场.html)
+ - [使用 SparkSource 开发应用组件市场](使用_SparkStudio_开发应用组件市场.html)
