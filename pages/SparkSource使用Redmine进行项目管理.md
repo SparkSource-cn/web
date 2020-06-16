@@ -84,17 +84,22 @@ gem install eventmachine --platform=ruby
 ```
 
 启动 Redmine 服务：
-以上安装结束，可以启动服务看看，在终端运行
+以上安装结束，可以启动服务看看，
 
-`ruby bin/rails server thin -e production -p 3001`
+```
+ruby bin/rails server thin -e production -p 3001
+```
 
 然后到浏览器打开
 
-`http://localhost:3001`
+```
+http://localhost:3001
+```
 
 你应该看到 Redmine 的欢迎页面。可以使用默认账号登录
 
 >账号：admin
+
 >密码：admin
 
 登录后就可以按照手册配置项目了。其中，邮件配置根据邮件服务商的不同略有差异，不过
