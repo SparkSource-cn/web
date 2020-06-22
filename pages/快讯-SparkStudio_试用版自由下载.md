@@ -9,7 +9,7 @@ description: Present release notes of each official SparkSource release
 SparkSource 的官网已经重装上线，也该给广大人机界面开发爱好者一些福利。
 
 请大家到
-http://www.sparksource.cn/html_ch/trial_download.html
+[试用版下载](http://www.sparksource.cn/html_ch/trial_download.html)
 下载 SparkStudio 最新的试用版，自由使用。
 
 SparkStuido 试用版支持 2D 界面开发。

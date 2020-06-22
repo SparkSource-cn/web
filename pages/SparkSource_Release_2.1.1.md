@@ -8,7 +8,7 @@ description: official SparkSource release 2.1.1
 
 SparkSource 紧锣密鼓地为客户打造了新的版本。在 2.0 正式版本之后，推出了 2.1.1
 正式版。具体发布看官网
-http://www.sparksource.cn/html_ch/rel_info.html
+[SparkSourec Release](http://www.sparksource.cn/html_ch/rel_info.html)
 
 此次发布，我们在 SparkEngine 和 SparkStudio 上做出了几项性能增强：
 
@@ -18,7 +18,6 @@ http://www.sparksource.cn/html_ch/rel_info.html
 4. 多个 API 改进。
 
 希望广大学习版用户多提宝贵意见。
-学习版下载：
-http://www.sparksource.cn/html_ch/trial_download.html
+[学习版下载](http://www.sparksource.cn/html_ch/trial_download.html)
 
 请看滚动菜单演示。

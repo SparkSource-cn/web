@@ -5,7 +5,7 @@ description: examples that teaches how to use SparkSource
 ---
 
 想必大家都已经从
-http://www.sparksource.cn/html_ch/trial_download.html
+[试用版下载](http://www.sparksource.cn/html_ch/trial_download.html)
 下载了 Spark Studio 的试用版。可是，这是一个创新的程序，虽然我们做出了非常易学的
 设计和流程，还是有很多人提问：到底 SparkStudio 该怎么用？
 
@@ -74,3 +74,4 @@ SparkStudio
 请同时参看：
  - [在 SparkSource 中运用 Shader](在_SparkSource_中运用_Shader.html)
  - [SparkSource 图形引擎示例](SparkSource_图形引擎示例.html)
+ - [SparkSource 的图形引擎助你高效开发 3D 应用](SparkSource_的图形引擎助你高效开发_3D_应用.html)

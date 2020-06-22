@@ -8,7 +8,7 @@ description: official SparkSource release 2.1.3
 
 SparkSource 团队节奏依然。在 2.1.1 正式版本之后，推出了 2.1.3
 正式版。具体发布看官网
-http://www.sparksource.cn/html_ch/rel_info.html
+[SparkSource Release](http://www.sparksource.cn/html_ch/rel_info.html)
 
 此次发布，我们在 SparkEngine 和 SparkStudio 上做出了几项性能增强：
 
@@ -24,7 +24,6 @@ SparkSource 的这次发布给开发者带来的最大效果就是可以轻松�
 证代码的效果，而且也能够充分发挥已知芯片的 GPU 能力。让用户体验前所未有的视觉及
 操控效果。
 
-学习版下载：
-http://www.sparksource.cn/html_ch/trial_download.html
+[学习版下载](http://www.sparksource.cn/html_ch/trial_download.html)
 
 请回复本公众号，提出宝贵意见。

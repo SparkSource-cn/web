@@ -7,7 +7,7 @@ description: official SparkSource release 2.2.1
 魔都热浪滚滚，盛夏已至。大家注意防暑降温，保持身体健康。
 
 SparkSource 2.2.1 版本正式发出。具体发布看官网
-http://www.sparksource.cn/html_ch/rel_info.html
+[SparkSource Release](http://www.sparksource.cn/html_ch/rel_info.html)
 
 此次发布，SparkEngine 和 SparkStudio 已经日臻完善：
 
@@ -26,7 +26,6 @@ SparkSource 的这次发布给开发者带来的方便就是设计规格、流�
 代码编辑界面就提供了这个武器。代码和界面的对应关系清晰地展现给开发者，是调试的效
 率大大提高。
 
-学习版下载：
-http://www.sparksource.cn/html_ch/trial_download.html
+[学习版下载](http://www.sparksource.cn/html_ch/trial_download.html)
 
 请回复本公众号，提出宝贵意见。
