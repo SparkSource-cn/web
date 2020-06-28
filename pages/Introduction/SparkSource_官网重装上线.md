@@ -4,7 +4,7 @@ title: SparkSource Official homepage
 description: SparkSource, a leading HMI development system, the official homepage
 ---
 
-[上海沣沅星科技有限公司](www.sparksource.cn)
+[上海沣沅星科技有限公司](http://www.sparksource.cn)
 
 官网上线是一件大事，希望我们的公司能够借助自由网络扫除疫情带来的阴霾，在 2020
 年再创佳绩，为新的合作伙伴带来业绩增长。
