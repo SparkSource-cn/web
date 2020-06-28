@@ -20,7 +20,8 @@ Happy Hacking.
 
 ### Official Release
 
- - [version 2.0.0](SparkSource_Release_2.0.html)
- - [version 2.1.1](SparkSource_Release_2.1.1.html)
- - [version 2.1.3](SparkSource_Release_2.1.3.html)
- - [version 2.2.1](SparkSource_Release_2.2.1.html)
+ - [version 2.0.0](Release/SparkSource_Release_2.0.html)
+ - [version 2.1.1](Release/SparkSource_Release_2.1.1.html)
+ - [version 2.1.3](Release/SparkSource_Release_2.1.3.html)
+ - [version 2.2.1](Release/SparkSource_Release_2.2.1.html)
+ - [version 2.2.2](Release/SparkSource_Release_2.2.2.html)

@@ -72,6 +72,6 @@ SparkStudio
 祝你的世界更美好！
 
 请同时参看：
- - [在 SparkSource 中运用 Shader](在_SparkSource_中运用_Shader.html)
- - [SparkSource 图形引擎示例](SparkSource_图形引擎示例.html)
- - [SparkSource 的图形引擎助你高效开发 3D 应用](SparkSource_的图形引擎助你高效开发_3D_应用.html)
+ - [在 SparkSource 中运用 Shader](Tutorial/在_SparkSource_中运用_Shader.html)
+ - [SparkSource 图形引擎示例](Tutorial/SparkSource_图形引擎示例.html)
+ - [SparkSource 的图形引擎助你高效开发 3D 应用](Tutorial/SparkSource_的图形引擎助你高效开发_3D_应用.html)
