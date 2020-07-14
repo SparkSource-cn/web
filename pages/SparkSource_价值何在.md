@@ -72,4 +72,4 @@ SparkSource 总结了这些痛点、分析了症结所在，有针对性地解�
 请同时参看：
  - [SparkSource 软件质量经受考验](Value/SparkSource_软件质量经受考验.html)
  - [使用 SparkSource 开发应用组件市场](Value/使用_SparkStudio_开发应用组件市场.html)
- - [SparkSource 将全面支持无障碍开发](Value/SparkStudio_将全面支持无障碍开发.html)
+ - [SparkSource 将全面支持无障碍开发](Value/SparkSource_将全面支持无障碍开发.html)
