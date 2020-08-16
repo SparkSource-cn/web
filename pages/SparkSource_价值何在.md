@@ -75,3 +75,4 @@ SparkSource 总结了这些痛点、分析了症结所在，有针对性地解�
  - [SparkSource 将全面支持无障碍开发](Value/SparkSource_将全面支持无障碍开发.html)
  - [SparkSource 从容应对软件定义汽车时代](Value/SparkSource_从容应对软件定义汽车时代.html)
  - [SparkSource 和语音交互界面](Value/SparkSource_和语音交互界面.html)
+ - [智能驾舱 HMI 开发面临的挑战和 SparkSource 的解决方案](Value/智能驾舱_HMI_开发面临的挑战和_SparkSource_的解决方案.html)
