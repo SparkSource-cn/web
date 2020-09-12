@@ -34,12 +34,13 @@ SparkSource 2.4.1 版本正式发出。具体发布看官网
 
 * 是否有演示可以学习
 
-[SparkSource 官网](http://www.sparksource.cn)提供以上支持，并有专人负责答疑：
+[SparkSource 官网](http://www.sparksource.cn) 提供以上支持，并有专人负责答疑：
 [SparkSource 技术支持](mailto:support@sparksource.cn)。
 
 请及时到官网下载学习体验版，率先了解 SparkSource 2.4.1 版的新功能。
 
 [学习版下载链接](http://www.sparksource.cn/html_ch/study_download.html)
+
 [演示项目下载](http://www.sparksource.cn/html_ch/demo_download.html)
 
 请回复本公众号，提出宝贵意见。
