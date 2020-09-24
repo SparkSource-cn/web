@@ -75,3 +75,4 @@ SparkStudio
  - [在 SparkSource 中运用 Shader](Tutorial/在_SparkSource_中运用_Shader.html)
  - [SparkSource 图形引擎示例](Tutorial/SparkSource_图形引擎示例.html)
  - [SparkSource 的图形引擎助你高效开发 3D 应用](Tutorial/SparkSource_的图形引擎助你高效开发_3D_应用.html)
+ - [车载HMI中3D模型的性能优化](Tutorial/车载模型中3D模型的性能优化.html)
