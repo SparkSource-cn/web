@@ -77,3 +77,4 @@ SparkSource 总结了这些痛点、分析了症结所在，有针对性地解�
  - [SparkSource 和语音交互界面](Value/SparkSource_和语音交互界面.html)
  - [智能驾舱 HMI 开发面临的挑战和 SparkSource 的解决方案](Value/智能驾舱_HMI_开发面临的挑战和_SparkSource_的解决方案.html)
  - [SparkSource 使开机动画有利可图](Value/SparkSource_使开机动画有利可图.html)
+ - [SparkSource 模拟器助力 HMI 开发测试一体化](Value/SparkSource_模拟器助力HMI开发测试一体化.html)
