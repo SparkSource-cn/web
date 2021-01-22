@@ -31,3 +31,4 @@ Happy Hacking.
  - [version 2.5.1](Release/SparkSource_Release_2.5.1.html)
  - [version 2.6.1](Release/SparkSource_Release_2.6.1.html)
  - [version 2.6.2](Release/SparkSource_Release_2.6.2.html)
+ - [version 2.6.4](Release/SparkSource_Release_2.6.4.html)
